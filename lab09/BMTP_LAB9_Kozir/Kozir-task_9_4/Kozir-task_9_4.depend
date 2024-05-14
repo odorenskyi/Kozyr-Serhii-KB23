@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1715697067 source:c:\users\serega\desktop\bmtp_lab9_kozir\kozir-task_9_4\main.cpp
+	<iostream>
+	<cstdlib>
+	<Windows.h>
+
