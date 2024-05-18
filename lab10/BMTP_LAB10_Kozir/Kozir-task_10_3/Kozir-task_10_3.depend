@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1716057160 source:c:\users\serega\desktop\bmtp_lab10_kozir\kozir-task_10_3\main.cpp
+	<iostream>
+	<fstream>
+	<bitset>
+	<cmath>
+
