@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1716326793 source:c:\¡Ã“œ\chaban-sofiia-ki23\lab11\prj\moduleskozyr\main.cpp
+	"MoudelsKozyr.h"
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	"struct_type_project_9.h"
+
+1716324850 c:\¡Ã“œ\chaban-sofiia-ki23\lab11\prj\moudelskozyr.h
+	<iostream>
+	<vector>
+	<string>
+	"struct_type_project_9.h"
+
+1716326241 c:\¡Ã“œ\chaban-sofiia-ki23\lab11\prj\struct_type_project_9.h
+	<string>
+
